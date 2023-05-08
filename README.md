@@ -1,2 +1,3 @@
 # HACKER-RANK-C-SOLUTIONS-
 SOLUTIONS OF HACKERRANK C++ PROBLEMS ON HACKERRANK
+[all valid and testcase passing solutions]
